@@ -1,5 +1,9 @@
 import java.util.Arrays;
 
+// Ali Rıza Altıparmak
+// github.com/araltiparmak
+// hackerrank.com/araltiparmak
+
 public class LeftRotation {
 
     public static void main(String[] args) {
@@ -23,5 +27,4 @@ public class LeftRotation {
         }
         return arr;
     }
-
 }
