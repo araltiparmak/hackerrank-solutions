@@ -1,5 +1,6 @@
+// Problem: https://www.hackerrank.com/challenges/java-anagrams/problem
 
-// Ali Rıza Altıparmak
+// @author Ali Rıza Altıparmak
 // github.com/araltiparmak
 // hackerrank.com/araltiparmak
 
@@ -16,8 +17,12 @@ public class JavaAnagrams {
             return false;
         }
         for (int i = 0; i < a.length(); i++) {
-            b = b.replaceFirst(Character.toString(a.charAt(i)), "");
+            char c = a.charAt(i);
+            if (b.indexOf(c) == -1) {
+                return false;
+            }
+            b = b.replaceFirst(String.valueOf(c), "");
         }
-        return b.equals("");
+        return true;
     }
 }
