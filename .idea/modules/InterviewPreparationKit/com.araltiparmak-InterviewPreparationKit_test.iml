@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module external.linked.project.id=":InterviewPreparationKit:test" external.linked.project.path="$MODULE_DIR$/../../../InterviewPreparationKit" external.root.project.path="$MODULE_DIR$/../../.." external.system.id="GRADLE" external.system.module.group="com.araltiparmak" external.system.module.type="sourceSet" external.system.module.version="1.0-SNAPSHOT" type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" LANGUAGE_LEVEL="JDK_1_8">
+    <output-test url="file://$MODULE_DIR$/../../../InterviewPreparationKit/out/test/classes" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$/../../../InterviewPreparationKit/src/test" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module" module-name="InterviewPreparationKit_main" />
+  </component>
+  <component name="TestModuleProperties" production-module="InterviewPreparationKit_main" />
+</module>

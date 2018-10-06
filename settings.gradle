@@ -1,0 +1,5 @@
+rootProject.name = 'HackerRank'
+
+include 'Java'
+include 'InterviewPreparationKit'
+
