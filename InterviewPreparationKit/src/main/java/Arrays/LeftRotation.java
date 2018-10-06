@@ -1,3 +1,5 @@
+package Arrays;
+
 import java.util.Arrays;
 
 // Ali Rıza Altıparmak

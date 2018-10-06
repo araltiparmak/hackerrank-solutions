@@ -1,4 +1,4 @@
-// Problem: https://www.hackerrank.com/challenges/java-anagrams/problem
+package Strings;// Problem: https://www.hackerrank.com/challenges/java-anagrams/problem
 
 // @author Ali Rıza Altıparmak
 // github.com/araltiparmak
