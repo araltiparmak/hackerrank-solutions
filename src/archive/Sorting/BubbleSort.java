@@ -1,4 +1,4 @@
-package Sorting;// https://www.hackerrank.com/challenges/ctci-bubble-sort/problem
+package archive.Sorting;// https://www.hackerrank.com/challenges/ctci-bubble-sort/problem
 
 // @author Ali Rıza Altıparmak
 // github.com/araltiparmak

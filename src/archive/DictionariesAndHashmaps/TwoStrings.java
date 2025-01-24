@@ -1,4 +1,4 @@
-package DictionariesAndHashmaps;
+package archive.DictionariesAndHashmaps;
 
 import java.util.Arrays;
 import java.util.HashSet;

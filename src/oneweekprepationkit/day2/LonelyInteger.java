@@ -4,7 +4,7 @@ import java.util.HashSet;
 import java.util.List;
 import java.util.Set;
 
-public class Lonelyinteger {
+public class LonelyInteger {
 
   public  static void main(String[] args) {
         List<Integer> a = List.of(1, 2, 3, 4, 3, 2, 1);
